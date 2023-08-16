@@ -1,8 +1,31 @@
-# React + Vite
+# 🧐 Todo List App React (localstorage)
+![image](https://res.cloudinary.com/dqd5x0s7w/image/upload/v1692149793/github/Screenshot_5-modified_els2el.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀DEMO
+[Deploy]()
+ 
+## 💻Tutorial
+<a href='https://youtu.be/ooooo' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/ooooo/mqdefault.jpg' alt='ooooo' />
+</a>
 
-Currently, two official plugins are available:
+## 📦Getting Started
+```
+git clone https://github.com/garu2/todo-list-app.git
+```
+```
+cd todo-list-app.git
+```
+```
+npm install
+```
+```
+npm run dev
+```
+## ⚙Tecnologies
+* [React 18](https://reactjs.org/)
+* [Vercel](https://vercel.com/)
+* [Tailwind](https://tailwindcss.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼Design
+* [Dribbble](https://dribbble.com/shots/3384144-Hello-Dribbble)
