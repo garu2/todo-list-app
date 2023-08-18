@@ -20,7 +20,7 @@
   content: "";
   width: 19px;
   height: 19px;
-  background-image: url(./check.svg);
+  background-image: url(/check.svg);
   background-size: 90%;
   background-repeat: no-repeat;
   padding: 5px;
