@@ -1,8 +1,8 @@
 # 🧐 Todo List App React (localstorage)
-![image](https://res.cloudinary.com/dqd5x0s7w/image/upload/v1692149793/github/Screenshot_5-modified_els2el.png)
+![image](https://res.cloudinary.com/dqd5x0s7w/image/upload/v1692322551/github/726shots_so-min_huz50x.jpg)
 
 ## 🚀DEMO
-[Deploy]()
+[Deploy](https://todo-list-orcin-eight.vercel.app/)
  
 ## 💻Tutorial
 <a href='https://youtu.be/ooooo' target='_blank'>
