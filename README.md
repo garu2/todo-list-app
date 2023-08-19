@@ -14,7 +14,7 @@
 git clone https://github.com/garu2/todo-list-app.git
 ```
 ```
-cd todo-list-app.git
+cd todo-list-app
 ```
 ```
 npm install
