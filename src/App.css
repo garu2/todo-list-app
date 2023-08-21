@@ -45,3 +45,14 @@ main {
   padding: 50px 0;
   border-radius: 10px;
 }
+
+p.author {
+  display: flex;
+  justify-content: center;
+  margin:20px 0;
+  gap: 7px;
+}
+p.author a {
+  text-decoration: none;
+  font-weight: 700;
+}
